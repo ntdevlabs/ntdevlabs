@@ -1,5 +1,5 @@
 ### Hi there, it's NTDEV!👋
-I have am an electronics student who does dumb things in their spare time. I also have a YouTube channel where I post different Windows experiments, and I'm also (maybe too much) active on Twitter. I also have a blog where I sometimes post things that annoy me about Windows.
+I am an electronics student who does dumb things in their spare time. I also have a YouTube channel where I post different Windows experiments, and I'm also (maybe too much) active on Twitter. I also have a blog where I sometimes post things that annoy me about Windows.
 
 - 🔭 I’m currently working on the tiny11 builder, a utility that streamlines Windows images.
 - 📫 How to reach me: you can reach me on Twitter @NTDEV_
